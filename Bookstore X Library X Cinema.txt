@@ -1,0 +1,19 @@
+- create at least 10 views
+(Home, Contacts, About Us, Store, Search, Forum, Donations, Events, Privacy)
+(Store -> Books, Movies, Music, Misc)
+(Books -> Genres, Best selling authors)
+(Events -> Contests, Day of the Book, Cinema program, Book presentations)
+(Contests -> Prizes, Rules, Hall of Fame, Questioneers)
+
+
+Names of different models: (Red Dot)Culture Center, Mountain Side View Restaurant & BBQ,
+Blvd. Cafe, Joy Plaza, Cornerstone, Stepping Stone, The Ladder, Court Yard, "Build your future",
+Food & Bevarage corner.
+
+Client registration: email, password, DOB, info, Avatar
+Benefits: Library card, Bookstore discount, Loyal customer discount, Premium offers
+
+Culture Center: Library, Bookstore, Restaurant, Cafe/Internet Cafe, Lounge/Bar, Theatre/Cinema,
+Office/Conference hall
+
+Forum: Rules, Points, Stars, Avatar, 
