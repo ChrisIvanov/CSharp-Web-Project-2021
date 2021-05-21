@@ -1,6 +1,6 @@
 # CSharp-Web-Project-2021
 
-This is a Web Application created with the idea to serve as my C# Web Project for finishing the ASP.NET Core Module at SoftUni.
+This is a Web Application created with the idea to serve as my C# Web Project for finishing the ASP.NET Core Module at <href a=softuni.bg>SoftUni<\href>.
 
 The project itself represents a web application of a Culture Center which offers a number of services open to the public, such as
 library, bookstore, cinema, restaurant, internet cafe, conference hall and lounge. The web application provides hosting of the business of
